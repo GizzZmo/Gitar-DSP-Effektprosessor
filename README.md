@@ -1,7 +1,6 @@
 # Gitar-DSP-Effektprosessor
 Prosjektplan: Gitar DSP Effektprosessor for Windows
 
-Prosjektplan: Gitar DSP Effektprosessor for Windows
 1. Konsept og Målsetting
 1.1. Prosjektvisjon
 Å utvikle en frittstående (standalone) gitar-effektprosessor for Windows som tilbyr et utvalg av høykvalitets, vanlige gitareffekter i sanntid. Applikasjonen skal ha et intuitivt og stabilt brukergrensesnitt som er enkelt å bruke for gitarister på alle nivåer.
