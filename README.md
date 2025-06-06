@@ -1,4 +1,5 @@
 Gitar DSP Effektprosessor
+
 Dette er et åpen kildekode-prosjekt for å bygge en frittstående gitar-effektprosessor for Windows ved hjelp av C++ og JUCE-rammeverket. Målet er å skape en applikasjon med lav latency (forsinkelse) som tilbyr høykvalitets gitareffekter.
 
 Denne første versjonen implementerer kun en grunnleggende audio pass-through. Det vil si at den tar imot lyd fra en valgt inngang (input) og sender den direkte til en valgt utgang (output) uten noen form for prosessering. Dette bekrefter at kjernefunksjonaliteten for lydhåndtering er på plass.
