@@ -19,7 +19,7 @@ jobs:
         uses: ilammy/msvc-dev-cmd@v1
 
       - name: Install CMake
-        uses: lukka/get-cmake@v3
+        uses: lukka/get-cmake@v4
 
       - name: Configure CMake
         run: cmake -B build -S . -DCMAKE_BUILD_TYPE=Release
